@@ -1,4 +1,3 @@
-  GNU nano 4.8                                                                                     .github/workflow/docker-build.yml                                                                                      Modifié  
 name: CI  # Nom du workflow
 
 on:
